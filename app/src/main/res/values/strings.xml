@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">TipTime</string>
+    <string name="app_name">SmartTip</string>
+    <string name="cost_of_service">Custo do Serviço</string>
+    <string name="how_was_the_service">Como foi o serviço?</string>
+    <string name="amazing_20">Incrível (20%)</string>
+    <string name="good_18">Bom (18%)</string>
+    <string name="okay_15">OK (15%)</string>
+    <string name="round_up_tip">Arredondar gorjeta?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Valor da Gorjeta: %s</string>
 </resources>
